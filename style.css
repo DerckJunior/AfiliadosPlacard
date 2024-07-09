@@ -79,3 +79,7 @@ div.video > iframe{
     width: 90%;
     height: 90%;
 }
+
+body > p{
+text-indent: 14px;
+}
