@@ -83,3 +83,11 @@ div.video > iframe{
 body > p{
 text-indent: 30px;
 }
+
+a{
+background-color: #ec1f26;
+
+border-radious: 10px;
+color: White;
+
+}
